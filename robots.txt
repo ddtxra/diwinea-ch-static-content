@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /d-club
+Disallow: /index.php/blog/
+Disallow: /newproducts
+Disallow: /bestseller
+Disallow: /manufacturer
+Disallow: /enable-cookies
+Disallow: /customtoolbar
